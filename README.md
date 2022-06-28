@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zuess05
+- 👋 Hi, I’m @Suhas M L
 - 👀 I’m interested in Machine Learning and coding in general
 - 🌱 I’m currently learning about deep learning
 - 💞️ I’m looking to collaborate on any open source projects.
